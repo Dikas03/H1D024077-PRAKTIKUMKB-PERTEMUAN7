@@ -34,7 +34,7 @@ Sistem JST yang dibangun terdiri atas:
 3.  **Eksekusi Program**
     Jalankan *script* utama:
     ```bash
-    python praktikum7.py
+    python pertemuan7.py
     ```
 
 4.  **Alur Eksekusi Program:**
@@ -71,7 +71,7 @@ Ketika program diuji coba dengan data ukuran bunga Iris baru:
 **Output Prediksi:** `Iris-setosa` (Berhasil diklasifikasikan dengan tepat!)
 
 ## 📂 Struktur Repositori
-- `praktikum7.py` : Berisi source code utama dari praktikum.
+- `pertemuan7.py` : Berisi source code utama dari praktikum.
 - `README.md`     : File dokumentasi petunjuk program.
 - `iris/`         : Folder berisi offline dataset Iris.
 - `figure/`       : Folder berisi grafik *Training History* dan *Confusion Matrix*.
